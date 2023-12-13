@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 # 💬 About Me
 I am currently a third year undergraduate student at [China Agricultural University](https://www.cau.edu.cn/) My research is focused on motion planning in autonomous driving and swarm intelligence for unmanned systems.
 
 Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bilibili](https://space.bilibili.com/1353527764?spm_id_from=333.1007.0.0) / [Github](https://github.com/wuyi2121)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 Our team won the second place in the Beijing Region of the Intelligent Networked Vehicle Competition of the National Engineering Practice and Innovation Competition for College Students.
 
 # 📝 Publications 
 
