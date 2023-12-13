@@ -63,12 +63,5 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 <br />[code](https://github.com/wuyi2121) / [certificate](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
 
-
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Blogs
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
