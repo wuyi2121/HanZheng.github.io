@@ -35,14 +35,10 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 - [code](https://github.com/wuyi2121) / [arxiv](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Projects
 ## Research1: Motion planning in autonomous driving
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/motionplanning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Vehicle-Road-Cloud Integration Co-parking</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - March, 2024
@@ -51,7 +47,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/ICV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Intelligent Networked Vehicle Design Competition</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - October, 2023
@@ -60,7 +56,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/ITSC2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Autonomous parking trajectory planning</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - August, 2022 ~ May, 2023
@@ -71,7 +67,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 
 ## Research2: Swarm intelligence for unmanned systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/futureoriented.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Future-oriented air-ground cooperative unmanned grazing systems</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - October, 2023 ~ May, 2024
@@ -80,7 +76,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/biandui.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Grassland UAV cluster grazing system design</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - April, 2023 ~ April, 2024
