@@ -39,7 +39,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/motionplanning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Vehicle-Road-Cloud Integration Co-parking</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-- March, 2024
+- September, 2023 ~ present
 - In this paper, a multi-vehicle collaborative autonomous parking architecture with vehicle-road-cloud integration is proposed, which can efficiently realize multi-vehicle collaborative autonomous parking through the grouping strategy based on interaction analysis and the temporary cooperative trajectory planning based on the integration of different modes.
 <br />[code](https://github.com/wuyi2121) / [certificate](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
@@ -48,7 +48,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/ICV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Intelligent Networked Vehicle Design Competition</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-- October, 2023
+- July, 2023 ~ October, 2023
 - Responsible for the design of finite state machine, local path planning, horizontal and vertical control algorithms in the competition, and realize the robustness of the same set of algorithms under various scenarios in the Beijing Autonomous Driving Vehicle Test Road Management Measures.
 <br />[code](https://github.com/wuyi2121) / [certificate](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
