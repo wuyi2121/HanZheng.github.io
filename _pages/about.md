@@ -54,7 +54,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/ITSC2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/ITSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Autonomous parking trajectory planning</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - August, 2022 ~ May, 2023
