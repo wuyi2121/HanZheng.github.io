@@ -92,4 +92,4 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 </div>
 
 # 💻 Blogs
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- My study notes and interpretations of cutting-edge papers will be displayed on my blog, so feel free to follow along [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) 
