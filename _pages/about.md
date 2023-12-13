@@ -28,7 +28,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 # 📝 Publications 
 
 <div class='paper-box-text' markdown="1">
-<font size=4>**Han Zheng**, Xihan Ma, Weiwei Kong*. A Fast and Accurate Collision Detection Method During Automated Valet Parking for Autonomous Vehicle in Narrow Space. In IEEE International Intelligent Transportation Systems Conference (ITSC), 2023.</font>
+**Han Zheng**, Xihan Ma, Weiwei Kong*. **A Fast and Accurate Collision Detection Method During Automated Valet Parking for Autonomous Vehicle in Narrow Space.** In IEEE International Intelligent Transportation Systems Conference (ITSC), 2023.
 - accepted at July, 2023
 - [code](https://github.com/wuyi2121) / [arxiv](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
