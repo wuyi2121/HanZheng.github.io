@@ -65,7 +65,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 
 ## Research2: Swarm intelligence for unmanned systems
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/futureoriented.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/futureoriented.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [<font size=5>Future-oriented air-ground cooperative unmanned grazing systems</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - October, 2023 ~ present
