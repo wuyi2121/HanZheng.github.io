@@ -29,12 +29,12 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023<font color=Red >(Oral Presentation)</font></div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Fast and Accurate Collision Detection Method During Automated Valet Parking for Autonomous Vehicle in Narrow Space](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - **Han Zheng**, Xihan Ma, Weiwei Kong*
-- _ITSC_, 2023 <font color=Red >(Oral Presentation)</font>
+- _ITSC_, 2023 <font color=Red > (Oral Presentation)</font>
 <br />[code](https://github.com/wuyi2121) / [arxiv](https://github.com/wuyi2121) / [video](https://www.bilibili.com/video/BV15H4y1X7SM/?spm_id_from=333.999.0.0&vd_source=391500d3a9acb59f6b0059596c1f9776)
 </div>
 </div>
