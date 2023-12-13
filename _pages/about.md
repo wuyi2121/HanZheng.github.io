@@ -28,7 +28,7 @@ Welcom to follow [CSDN](https://blog.csdn.net/weixin_65089713?type=blog) / [Bili
 # 📝 Publications 
 
 <div class='paper-box-text' markdown="1">
-<font size=4> **A Fast and Accurate Collision Detection Method During Automated Valet Parking for Autonomous Vehicle in Narrow Space**</font>
+## A Fast and Accurate Collision Detection Method During Automated Valet Parking for Autonomous Vehicle in Narrow Space
 - **Han Zheng**, Xihan Ma, Weiwei Kong*
 - _ITSC_, 2023 <font color=Red > (Oral Presentation)</font>
 - accepted at July, 2023
